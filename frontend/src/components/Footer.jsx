@@ -19,9 +19,9 @@ const Footer = () => {
         <div>
           <h4>Support</h4>
           <ul>
-            <li>Nirala Nagar, Ayodhya 224001, India</li>
-            <li>vaibhav4743tiwari@gmail.com</li>
-            <li>+91 7985XXXXX3</li>
+            <li>Chowk, Ayodhya 224001, India</li>
+            <li>hare446mehrotra@gmail.com</li>
+            <li>+91 7619XXXX46</li>
           </ul>
         </div>
 
@@ -80,7 +80,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="copyright">
-        &copy; CopyRight 2024. All Rights Reserved By Vaibhav Tiwari
+        &copy; CopyRight 2024. All Rights Reserved By Hare Krishna Mehrotra
       </div>
     </>
   );
